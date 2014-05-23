@@ -8,7 +8,7 @@ import java.util.Date;
  * @generated
  */
 
-public final class PersonaFisica extends Persona
+public class PersonaFisica extends Persona
 {
 	/**
 	 * <!-- begin-user-doc -->
